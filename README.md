@@ -1,5 +1,6 @@
 # GitHub Workflow
 
+All that you change, changes you.
 In this workshop, you will practice using `git` to version control your projects.
 You will also learn some best practices on how to collaborate with other
 developers on code using GitHub.
